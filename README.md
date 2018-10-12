@@ -1,3 +1,3 @@
 # tepilaut.co 
 
-Lorem ipsum dolor sit amet
+Tepilaut adalah usaha untuk bla bla, lorem ipsum dolor sit amet.
