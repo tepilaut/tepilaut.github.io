@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"has",
+				"has-text-grey-dark"
+			],
+			[
+				"pae",
+				"panel-rute"
+			],
+			[
+				"onC",
+				"onClickHandler"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"direc",
+				"directionsDisplay"
+			],
+			[
+				"dire",
+				"directionsService"
+			],
+			[
+				"Dir",
+				"DirectionsService"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"fiel",
+				"field-body"
+			],
+			[
+				"is",
+				"is-horizontal"
+			],
+			[
+				"fil",
+				"field"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"kata",
+				"katalogController"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"Asse",
+				"AssetSchema"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"route",
+				"routes"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 799,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 777,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 577794,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Install Package Control"
+			],
+			[
+				"install paca",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"tes"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ayrtmn/App/tepilaut.co",
+		"/home/ayrtmn/App/tepilaut.co/_sass",
+		"/home/ayrtmn/App/tepilaut.co/css",
+		"/home/ayrtmn/App/tepilaut.co/lib"
+	],
+	"file_history":
+	[
+		"/home/ayrtmn/App/tepilaut.co/README.md",
+		"/home/ayrtmn/App/tepilaut.co/index.html",
+		"/home/ayrtmn/App/tepilaut.github.io/index.html",
+		"/home/ayrtmn/App/sbgtnh/views/peta-aset.ejs",
+		"/home/ayrtmn/App/sbgtnh/views/index.ejs",
+		"/home/ayrtmn/App/sbgtnh/node_modules/bulma/css/bulma.css",
+		"/home/ayrtmn/App/sbgtnh/views/katalog.ejs",
+		"/home/ayrtmn/App/sbgtnh/views/peta.ejs",
+		"/home/ayrtmn/App/sbgtnh/views/katalog-aset.ejs",
+		"/home/ayrtmn/App/sbgtnh/public/css/peta.css",
+		"/home/ayrtmn/App/sbgtnh/public/js/sbgtnh.js",
+		"/home/ayrtmn/App/sbgtnh/controllers/katalog.controller.js",
+		"/home/ayrtmn/App/sbgtnh/routes/katalog.route.js",
+		"/home/ayrtmn/App/sbgtnh/public/css/page.css",
+		"/home/ayrtmn/App/sbgtnh/models/asset.model.js",
+		"/home/ayrtmn/App/sbgtnh/public/css/index.style.css",
+		"/home/ayrtmn/App/sbgtnh/controllers/maps.controller.js",
+		"/home/ayrtmn/App/sbgtnh/node_modules/bulma/bulma.sass",
+		"/home/ayrtmn/App/sbgtnh/public/sass/style.scss",
+		"/home/ayrtmn/App/sbgtnh/public/css/style.css",
+		"/home/ayrtmn/App/sbgtnh/controllers/index.controller.js",
+		"/home/ayrtmn/App/sbgtnh/routes/peta.route.js",
+		"/home/ayrtmn/App/sbgtnh/app.js",
+		"/home/ayrtmn/App/sbgtnh/public/js/peta.js",
+		"/home/ayrtmn/App/sbgtnh/public/css/sbgtnh.css",
+		"/home/ayrtmn/App/sbgtnh/public/css/map.css",
+		"/home/ayrtmn/App/sbgtnh/routes/maps.route.js",
+		"/home/ayrtmn/App/sbgtnh/views/maps.ejs",
+		"/home/ayrtmn/App/sbgtnh/views/informasi.ejs",
+		"/home/ayrtmn/App/sbgtnh/routes/informasi.route.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								777,
+								777
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 577794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2295.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "tepilaut.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
