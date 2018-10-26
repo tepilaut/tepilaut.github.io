@@ -76,8 +76,8 @@ typings/
 .fusebox/
 
 # Sublime file save
-.sublime-project
-.sublime-workspace
+*.sublime-project
+*.sublime-workspace
 
 # SASS administration
 _javascript/
